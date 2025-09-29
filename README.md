@@ -28,3 +28,8 @@ quick tutorial on how to install Nerdminer² on the Cheap Yellow Display with in
 9: Reset or unplug the display, it has now been flashed with the correct color firmware
 
 10: Succes
+
+
+and follow this tutorial
+
+https://www.youtube.com/watch?v=01VQpFPCMek&t=921s

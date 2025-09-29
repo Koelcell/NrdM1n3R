@@ -14,6 +14,7 @@ quick tutorial on how to install Nerdminer² on the Cheap Yellow Display with in
 
 <img width="855" height="387" alt="Flasher" src="https://github.com/user-attachments/assets/64537002-ba1f-4f9e-aa7f-a444f4cb2b46" />
 
+
 4: add programs until four, name them as they are named in the zip
 
 5:connect the display to your computer

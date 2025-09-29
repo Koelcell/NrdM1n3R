@@ -3,6 +3,7 @@ quick tutorial on how to install Nerdminer² on the Cheap Yellow Display with in
 
 
 
+
 1: Download the zip file
 2: Extract into a folder
 <img width="201" height="117" alt="Zip content" src="https://github.com/user-attachments/assets/78a4eaeb-da49-41b8-b97c-a3fa7564651c" />
